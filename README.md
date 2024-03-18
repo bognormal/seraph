@@ -2,16 +2,16 @@
   <p align="center">
     seraph; an open source game website that hosts 300+ games with cloaking tab functionality, multiple themes, full rehosting support and content updates frequently
     <br/>
-    <a href="https://seraph.reveriestudios.online/">go to seraph</a>
+    <a href="https://bognormal.github.io/seraph/">go to seraph</a>
     ·
-    <a href="https://github.com/a456pur/seraph/issues/new/choose">report issue / request feature</a>
+    <a href="https://github.com/bognormal/seraph/issues/new/choose">report issue / request feature</a>
     ·
-    <a href="https://discord.gg/ZyZDmx3zuQ">discord server</a>
+    <a href="https://discord.gg/CVxK88WTc7">discord server</a>
     <br>
     <br>
-    <img src="https://img.shields.io/github/repo-size/a456pur/seraph?style=for-the-badge&labelColor=%23000000&color=%231c1c1c">
-    <img src="https://img.shields.io/github/stars/a456pur/seraph?style=for-the-badge&labelColor=%23000000&color=%231c1c1c">
-    <img src="https://img.shields.io/github/forks/a456pur/seraph?style=for-the-badge&labelColor=000000&color=1c1c1c">
+    <img src="https://img.shields.io/github/repo-size/bognormal/seraph?style=for-the-badge&labelColor=%23000000&color=%231c1c1c">
+    <img src="https://img.shields.io/github/stars/bognormal/seraph?style=for-the-badge&labelColor=%23000000&color=%231c1c1c">
+    <img src="https://img.shields.io/github/forks/bognormal/seraph?style=for-the-badge&labelColor=000000&color=1c1c1c">
   </p>
 
 ## features
@@ -46,7 +46,7 @@
 - geotobogaming: general support
 
 ## contributing
-you can contribute to seraph in multiple ways by [raising issues on the github](https://github.com/a456pur/seraph/issues/new/choose), which can include:
+you can contribute to seraph in multiple ways by [raising issues on the github](https://github.com/bognormal/seraph/issues/new/choose), which can include:
 - **game suggestions:** suggest games to be added to seraph! provide a link if possible to the game to make it easier to add
 - **website suggestions:** suggest features to be added to the website
 - **website bugs:** report bugs you are experiencing with the website (not inside a game), providing some simple steps on how to replicate the bug
